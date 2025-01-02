@@ -1,2 +1,2 @@
-# todo-farm
- A FARM stack project
+# Personalized Learning and Skill Development Platform
+FARM stack
